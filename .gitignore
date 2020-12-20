@@ -435,6 +435,7 @@ coverage.xml
 
 # pyenv #
 .python-version
+.vscode
 
 # celery #
 celerybeat-schedule.*
