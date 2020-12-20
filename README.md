@@ -1,1 +1,1 @@
-# spotify_pool
+# Collaborative Music Playing System
